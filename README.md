@@ -1,1 +1,1 @@
-Simple project to learn how to use PEST. Wanna test it? clone on your machine, navigate to the project folder, run ```composer install``` and then run ```php artisan test```. If you want to check the testing code just go to ```test\Features``` directory.
+Projeto simpes para entender o funcionamento do PEST. Caso queira testar basta clonar o projeto, navegar até a pasta por linha de comando e rodar ```composer install```. Para rodar os testes execute ```php artisan test```. Os testes e datasets podem ser localizados no diretório ```test```. 
